@@ -32,7 +32,7 @@ src/eval_chatgpt/*
 
 # *.png
 
-*.jpg
+# *.jpg
 *.xlsx
 *.csv
 *.whl
