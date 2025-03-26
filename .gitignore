@@ -30,7 +30,7 @@ src/eval_chatgpt/*
 
 
 
-*.png
+# *.png
 
 *.jpg
 *.xlsx
